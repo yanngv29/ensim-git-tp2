@@ -1,11 +1,51 @@
-#jumbo-title{
-	font-family: roboto;
-	font-weight: 900;
+@font-face {
+	font-family: 'Stoneharbour';
+	src: url('font/STONEHARBOUR-Regular.otf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+.jumbo-title{
+	font-family: Stoneharbour,roboto;
+	/*font-weight: 900;*/
 	text-transform:uppercase;
 	color: #fff;
 }
+
+h1, h2, h3 {
+	font-family: Stoneharbour;
+}
+
 .card-img-top {
     width: 100%;
     height: 15vw;
     object-fit: cover;
-}	
+}
+
+#home {
+	background: url(../img/bg.png);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+#home > .container {
+	background-color: white;
+	margin-bottom: 5%;
+	margin-top: 5%;
+	padding: 30px;
+	border-radius: 20px;
+}
+
+.container {
+	box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+
+.card-deck > .card {
+	background-color: #efefef;
+	box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+	transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+}
+
+.card-deck > .card:hover {
+	box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
