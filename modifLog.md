@@ -22,6 +22,13 @@ Ici on retrouve DANS l'ordre les modifications qui ont été effectué
 2. Titre remplacé "Uno"
 3. Etiquettes remplacées
 
+# Issue 9 : mettre à jour un cinquième jeu sur la page - Estelle Ganot
+1. Image remplacée par "galerapagos.jpg"
+2. Titre remplacé par "Galèrapagos"
+3. Description remplacée 
+4. Etiquettes remplacées par "Jeu d'ambiance", "Semi-coopératif", "Stratégie", "Bluff", et "Négociation"
+5. Dans New Games, Composio remplacé par "Galèrapagos"
+
 # Issue 11 :Changer la section "Accomodations" pour qu'elle corresponde à l'ENSIM <Juliette Le Meudec>
 Changement du contenu des 3 paragraphes de la division correspondant aux "Accomodations" dans la page  [`jeuxdesociete.html`](https://github.com/yanngv29/ensim-git-tp2/blob/main/jeuxdesociete.html)
 
