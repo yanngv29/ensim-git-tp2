@@ -20,3 +20,5 @@ Ici on retrouve DANS l'ordre les modifications qui ont été effectué
 # Issue 11 :Changer la section "Accomodations" pour qu'elle corresponde à l'ENSIM <Juliette Le Meudec>
 Changement du contenu des 3 paragraphes de la division correspondant aux "Accomodations" dans la page  [`jeuxdesociete.html`](https://github.com/yanngv29/ensim-git-tp2/blob/main/jeuxdesociete.html)
 
+# Issue 10 : Mettre à jour un sixième jeu sur la page 
+Modification card Tic Tac Boom !
