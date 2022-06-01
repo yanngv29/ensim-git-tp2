@@ -22,6 +22,11 @@ Ici on retrouve DANS l'ordre les modifications qui ont été effectué
 2. Titre remplacé "Uno"
 3. Etiquettes remplacées
 
+# Issue 8 : mettre à jour un quatrieme jeu sur la page - Guilhem Soulan
+1. Image remplacée "quiestce.jpg"
+2. Titre remplacé "Qui est-ce"
+3. Etiquettes remplacées
+
 # Issue 11 :Changer la section "Accomodations" pour qu'elle corresponde à l'ENSIM <Juliette Le Meudec>
 Changement du contenu des 3 paragraphes de la division correspondant aux "Accomodations" dans la page  [`jeuxdesociete.html`](https://github.com/yanngv29/ensim-git-tp2/blob/main/jeuxdesociete.html)
 
