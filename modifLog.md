@@ -17,7 +17,7 @@ Ici on retrouve DANS l'ordre les modifications qui ont été effectué
 - Changement de typo
 - Correction HTML valideur (des id identiques)
 - 
-# Issue 5 : mettre à jour un premier jeu sur la page
+# Issue 5 : mettre à jour un premier jeu sur la page - Dylan Jacquot
 1. Image de présentation du jeu remplacée "loup_garou.jpg"
 2. Titre remplacé par "Loup Garou"
 3. Etiquettes remplacées par "Stratégie", "Jeu de rôle", "Imposture" et "Mensonge"
