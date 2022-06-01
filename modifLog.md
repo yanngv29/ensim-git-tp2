@@ -16,6 +16,12 @@ Ici on retrouve DANS l'ordre les modifications qui ont été effectué
 - Ajouter des animation CSS sur les cartes
 - Changement de typo
 - Correction HTML valideur (des id identiques)
+- 
+# Issue 6 : mettre à jour un premier jeu sur la page
+1. Image de présentation du jeu remplacée "loup_garou.jpg"
+2. Titre remplacé par "Loup Garou"
+3. Etiquettes remplacées par "Stratégie", "Jeu de rôle", "Imposture" et "Mensonge"
+4. Modification du lien dans la section "New Games"
 
 # Issue 6 : mettre à jour un second jeu sur la page
 1. Image remplacée "Uno.jpg"
