@@ -20,3 +20,7 @@ Ici on retrouve DANS l'ordre les modifications qui ont été effectué
 # Issue 11 :Changer la section "Accomodations" pour qu'elle corresponde à l'ENSIM <Juliette Le Meudec>
 Changement du contenu des 3 paragraphes de la division correspondant aux "Accomodations" dans la page  [`jeuxdesociete.html`](https://github.com/yanngv29/ensim-git-tp2/blob/main/jeuxdesociete.html)
 
+
+# Issue [#4] : Ajouter une catégorie sous la catégorie "Deals" <Lucas GUIDEAU>
+Ajouter une catégorie "Crédits" sous "Deals" . on y trouvera la liste des étudiants de votre groupe de TP.  [`jeuxdesociete.html`](https://github.com/yanngv29/ensim-git-tp2/blob/main/jeuxdesociete.html)
+
