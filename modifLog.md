@@ -38,9 +38,18 @@ Ici on retrouve DANS l'ordre les modifications qui ont été effectué
 # Issue 11 :Changer la section "Accomodations" pour qu'elle corresponde à l'ENSIM <Juliette Le Meudec>
 Changement du contenu des 3 paragraphes de la division correspondant aux "Accomodations" dans la page  [`jeuxdesociete.html`](https://github.com/yanngv29/ensim-git-tp2/blob/main/jeuxdesociete.html)
 
+
+# Issue 12 : Ajouter un nouveau jeu - Aristide BOURRY
+Ajout d'une nouvelle ligne avec mon jeu dedans + correction d'une erreur faite par un code précédent.
+1. Ajout de l'image junglespeed.jpg
+2. Ajout du titre Junglespeed.
+3. Ajout de la description du junglespeed.
+4. Ajout de l'ancre sur la page junglespeed.
+
   
 # Issue 10 : Mettre à jour un sixième jeu sur la page 
 Modification card Tic Tac Boom !
   
 # Issue [#4] : Ajouter une catégorie sous la catégorie "Deals" <Lucas GUIDEAU>
 Ajouter une catégorie "Crédits" sous "Deals" . on y trouvera la liste des étudiants de votre groupe de TP.  [`jeuxdesociete.html`](https://github.com/yanngv29/ensim-git-tp2/blob/main/jeuxdesociete.html)
+
